@@ -5,6 +5,8 @@
 # screenshots
 ![screen shot 2015-12-02 at 12 10 25 am](https://cloud.githubusercontent.com/assets/12906173/11510308/1f657098-9889-11e5-8b34-df96c0054870.png)
 
+![screen shot 2015-12-02 at 12 10 18 am](https://cloud.githubusercontent.com/assets/12906173/11510403/977e4f64-9889-11e5-944e-d8c90fe42a22.png)
+
 
 
 # code
